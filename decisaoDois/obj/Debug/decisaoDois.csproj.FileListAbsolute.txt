@@ -1,0 +1,6 @@
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoDois\decisaoDois\bin\Debug\decisaoDois.exe.config
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoDois\decisaoDois\bin\Debug\decisaoDois.exe
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoDois\decisaoDois\bin\Debug\decisaoDois.pdb
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoDois\decisaoDois\obj\Debug\decisaoDois.csprojResolveAssemblyReference.cache
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoDois\decisaoDois\obj\Debug\decisaoDois.exe
+c:\users\etecja\documents\visual studio 2012\Projects\decisaoDois\decisaoDois\obj\Debug\decisaoDois.pdb
